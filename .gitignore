@@ -1,0 +1,14 @@
+# Dependencies
+node_modules/
+
+# Environment variables (Crucial for your Twilio keys!)
+.env
+.env.local
+
+# Build folders
+dist/
+build/
+
+# IDE and OS files
+.vscode/
+.DS_Store
