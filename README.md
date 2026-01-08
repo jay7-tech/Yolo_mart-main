@@ -1,6 +1,6 @@
 # Yolo Mart — Smart Retail Demo 🛒
 
-**Yolo Mart** is a small demo project that showcases a smart retail/checkout experience: a React frontend, an Express backend, live RFID scanning (simulated via terminal), barcode/QR decoding, simple OTP login (Twilio), and an AI/chat assistant placeholder.
+**Yolo Mart** is a demo project that showcases a smart retail/checkout experience: a React frontend, an Express backend, live RFID scanning (simulated via terminal), barcode/QR decoding, Personalised preference AI analysation, simple OTP login (Twilio), and an AI/chat assistant placeholder.
 
 ---
 
@@ -8,6 +8,8 @@
 
 - Product browsing and details
 - Cart management and preferences
+- Allergen identifiers
+- Personalised AI backed machine  
 - Real-time RFID scan notifications via WebSocket
 - Barcode/QR image scanning endpoint
 - OTP-based phone verification (Twilio-ready, falls back to console)
